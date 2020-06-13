@@ -1,1 +1,1 @@
-# Hello-World
+# Hello-World подключился к github привязал память телефона.
